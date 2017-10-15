@@ -9,7 +9,7 @@ minimal_mistakes_skin    : "default" # "air", "contrast", "dark", "dirt", "mint"
 
 # Site Settings
 locale                   : "ru-RU"
-title                    : "Vernality"
+title                    : "Ценностные основания"
 title_separator          : "-"
 name                     : "Ринат Еникеев"
 description              : "Страницы поиска себя. Московский методологический кружок и программирование"
@@ -85,7 +85,7 @@ analytics:
 author:
   name             : "Ринат Еникеев"
   avatar           : "/assets/images/rinatenikeevface.png"
-  bio              : "В поиске самоопределения"
+  bio              : "Городской сумасшедший"
   location         : "Уфа, Россия"
   email            : "rinat.enikeev@gmail.com"
   uri              :
