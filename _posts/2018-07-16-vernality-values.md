@@ -6,6 +6,8 @@ tags:
   - values
 ---
 
+Organization values draft. 
+
 In addition to the [Agile Manifesto](http://agilemanifesto.org) values: 
 
 - individuals and interactions over processes and tools
