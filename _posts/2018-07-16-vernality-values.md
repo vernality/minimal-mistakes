@@ -6,7 +6,7 @@ tags:
   - values
 ---
 
-Organization values draft. 
+The following document describes core Vernality values. 
 
 In addition to the [Agile Manifesto](http://agilemanifesto.org) values: 
 
