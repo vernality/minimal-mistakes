@@ -6,7 +6,7 @@ tags:
   - values
 ---
 
-The following document describes core Vernality values. 
+The following document describes core Vernality values and principles. 
 
 In addition to the [Agile Manifesto](http://agilemanifesto.org) values: 
 
@@ -17,8 +17,11 @@ In addition to the [Agile Manifesto](http://agilemanifesto.org) values:
 
 we do value: 
 
-- business goals over technical requirements
-- open source over proprietary solutions
+- business goals over technical challenges
+- open source over proprietary
 - personal trajectories over qualifications
 - global markets over local opportunities
 
+Our principles: 
+
+- division of labor 
