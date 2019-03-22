@@ -15,7 +15,6 @@ In addition to the [Agile Manifesto](http://agilemanifesto.org):
 
 we do value: 
 
-- personal trajectories over qualifications
 - business goals over technical challenges
-- open source over proprietary
 - global markets over local opportunities
+- open source over proprietary
