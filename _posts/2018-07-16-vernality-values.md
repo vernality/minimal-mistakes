@@ -17,4 +17,5 @@ we do value:
 
 - business goals over technical challenges
 - global markets over local opportunities
+- add value over maximize profit
 - open source over proprietary
