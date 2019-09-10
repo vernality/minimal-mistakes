@@ -16,7 +16,7 @@ description              : "Rinat Enikeev blog"
 url                      : "https://vernality.ru" # the base hostname & protocol for your site
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : vernality/rinat # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
-teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
+teaser                   : "/assets/images/handwritten_vernality.png"
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
 comments:
