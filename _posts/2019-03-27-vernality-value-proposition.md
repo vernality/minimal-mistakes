@@ -1,7 +1,7 @@
 ---
-title: Aspigram value proposition
+title: Value proposition
 categories: 
-  - Aspigram
+  - Vernality
 tags:
   - value
   - proposition
@@ -16,7 +16,7 @@ Customer Pains: glass ceiling, not able to work remotely, not able to travel, su
 Customer Gains: increased hourly rate, self-esteem, digital nomad life, own appartment.  
 
 
-Products & Services: Training programme. Course. App: chat and feed.     
+Products & Services: Training programme. Course. Clients and remote jobs. 
 
 Gain Creators: upwork profile. 
 
