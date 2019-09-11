@@ -1,5 +1,5 @@
 ---
-title: Value proposition
+title: Value Proposition
 categories: 
   - Vernality
 tags:
