@@ -1,5 +1,5 @@
 ---
-title: Vernality Seed Value Proposition. High School Student. 
+title: Vernality Seed Value Proposition
 categories: 
   - Vernality
   - Seed
