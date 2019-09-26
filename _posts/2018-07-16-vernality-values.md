@@ -6,6 +6,8 @@ tags:
   - values
 ---
 
+Values Manifesto creates grounds for company's policy decisions. 
+
 In addition to the [Agile Manifesto](http://agilemanifesto.org): 
 
 - individuals and interactions over processes and tools
