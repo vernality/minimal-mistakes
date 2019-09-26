@@ -1,5 +1,5 @@
 ---
-title: Vernality Harvest Value Proposition
+title: Vernality Harvest Value Proposition. Software Developer. 
 categories: 
   - Vernality
   - Harvest
