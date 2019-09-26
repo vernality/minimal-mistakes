@@ -10,7 +10,7 @@ tags:
   - harvest
 ---
 
-Vernality Harvest scope is to deliver business value for both freelancers and customers. 
+Vernality Harvest mission is to deliver business value for both freelancers and customers. 
 
 Business Model Canvas is a strategic management and lean startup template for developing business model. 
 
