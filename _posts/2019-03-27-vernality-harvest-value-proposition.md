@@ -1,10 +1,13 @@
 ---
-title: Value Proposition
+title: Vernality Harvest Value Proposition
 categories: 
   - Vernality
+  - Harvest
 tags:
   - value
   - proposition
+  - harvest
+  - vernality
 ---
 
 Customer Segment: software developers. 

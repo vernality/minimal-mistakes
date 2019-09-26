@@ -1,10 +1,13 @@
 ---
-title: Business Model
+title: Vernality Harvest Business Model
 categories: 
   - Vernality
+  - Harvest
 tags:
   - business
   - model
+  - vernality
+  - harvest
 ---
 
 Business Model Canvas is a strategic management and lean startup template for developing business model. 
