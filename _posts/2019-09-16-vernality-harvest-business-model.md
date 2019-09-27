@@ -1,5 +1,5 @@
 ---
-title: Vernality Harvest Business Model
+title: Harvest Business Model
 categories: 
   - Vernality
   - Harvest

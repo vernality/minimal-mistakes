@@ -1,5 +1,5 @@
 ---
-title: Vernality Harvest Value Proposition
+title: Harvest Value Proposition
 categories: 
   - Vernality
   - Harvest

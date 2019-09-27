@@ -1,5 +1,5 @@
 ---
-title: Vernality Seed Value Proposition
+title: Seed Value Proposition
 categories: 
   - Vernality
   - Seed
