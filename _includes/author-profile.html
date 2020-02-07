@@ -7,13 +7,21 @@
 <div itemscope itemtype="http://schema.org/Person">
 
   {% if author.avatar %}
-    <div class="author__avatar">
-      {% if author.avatar contains "://" %}
+  <div class="author__avatar">
+    {% if author.avatar contains "://" %}
+    <p>
+      <a href="https://vernality.github.io/rinat">
         <img src="{{ author.avatar }}" alt="{{ author.name }}" itemprop="image">
-      {% else %}
+      </a>
+    </p>
+    {% else %}
+    <p>
+      <a href="https://vernality.github.io/rinat">
         <img src="{{ author.avatar | absolute_url }}" class="author__avatar" alt="{{ author.name }}" itemprop="image">
-      {% endif %}
-    </div>
+      </a>
+    </p>
+    {% endif %}
+  </div>
   {% endif %}
 
   <div class="author__content">
