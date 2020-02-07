@@ -19,9 +19,9 @@ we do value:
 
 - add value over maximize profit
 - user happiness over business goals
-- opportunities and contracts over problems and conflicts
-- worldwide recognition over local opportunities
 - open source over proprietary
+- opportunities and contracts over problems and conflicts
 - user experience over technical challenges
 - user privacy over customer discovery
+- worldwide recognition over local opportunities
 - roadmapping over modelling
