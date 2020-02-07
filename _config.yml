@@ -14,7 +14,7 @@ title_separator          : "-"
 name                     : "Rinat Enikeev"
 description              : "Rinat Enikeev blog"
 url                      : "https://vernality.github.io" # the base hostname & protocol for your site
-baseurl                  : "/rinat" # the subpath of your site, e.g. "/blog"
+baseurl                  : "/rinat-blog" # the subpath of your site, e.g. "/blog"
 repository               : vernality/rinat # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : "/assets/images/handwritten_vernality.png"
 # breadcrumbs            : false # true, false (default)
