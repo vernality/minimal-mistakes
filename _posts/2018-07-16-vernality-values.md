@@ -17,8 +17,11 @@ In addition to the [Agile Manifesto](http://agilemanifesto.org):
 
 we do value: 
 
-- opportunities and contracts over problems and conflicts
-- business goals over technical challenges
-- global markets over local opportunities
 - add value over maximize profit
+- user happiness over business goals
+- opportunities and contracts over problems and conflicts
+- worldwide recognition over local opportunities
 - open source over proprietary
+- user experience over technical challenges
+- user privacy over customer discovery
+- roadmapping over modelling
