@@ -1,5 +1,5 @@
 ---
-title: Values Manifesto
+title: Values
 categories: 
   - Vernality
 tags:

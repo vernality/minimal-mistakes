@@ -1,5 +1,5 @@
 ---
-title: Vernality Manifesto
+title: Manifesto
 categories: 
   - Vernality
 tags:
